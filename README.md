@@ -1,12 +1,12 @@
 
 <a href="https://www.linkedin.com/in/jaitlimaye">
-<img align="left" alt="Jait Limaye" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Jait Limaye Linkedin" height='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/jaitlimaye">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='jait limaye github' height='40'>
 </a>
 <a href="mailto: jaitlimaye@gmail.com">
-<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<img align="left" alt="jait limaye Email" height='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </a>
 <br />
