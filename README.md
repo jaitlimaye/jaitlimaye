@@ -5,6 +5,8 @@ I am an ambitious and motivated software developer who is quick to adapt to new 
 </br>
 </br>
 </br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </br>
 </br>
 **Languages and Tools:**
@@ -19,9 +21,8 @@ I am an ambitious and motivated software developer who is quick to adapt to new 
 </div>
 </br>
 </br>
-<div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-</div>
+
+
 </br>
 </br>
 **Contact Me:**
