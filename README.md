@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Jait 🙌
 #### I am currently a Fullstack Developer at <a href="https://fixxi.repair/">Fixxi Technologies</a>
-I am a ambitious and motivated software developer who is quick to adapt to new technology
+I am an ambitious and motivated software developer who is quick to adapt to new technology
 </br>
 </br>
 </br>
@@ -34,4 +34,3 @@ I am a ambitious and motivated software developer who is quick to adapt to new t
 </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaitlimaye&layout=compact)
