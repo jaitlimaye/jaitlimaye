@@ -19,8 +19,6 @@ I am a ambitious and motivated software developer who is quick to adapt to new t
 </div>
 </br>
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaitlimaye&hide_progress=true)
-
 </br>
 </br>
 **Contact Me:**
@@ -35,3 +33,5 @@ I am a ambitious and motivated software developer who is quick to adapt to new t
 <img align="left" alt="jait limaye Email" height='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaitlimaye&layout=compact)
