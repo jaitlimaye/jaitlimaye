@@ -19,7 +19,6 @@ I am an ambitious and motivated software developer who is quick to adapt to new 
 
 <br />
 <br />
-##Contact Me:
 <br />
 <a href="https://www.linkedin.com/in/jaitlimaye">
 <img align="left" alt="Jait Limaye Linkedin" height='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
