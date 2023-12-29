@@ -3,8 +3,11 @@
 #### I am currently a Fullstack Developer at <a href="https://fixxi.repair/">Fixxi Technologies</a>
 I am a ambitious and motivated software developer who is quick to adapt to new technology
 </br>
+</br>
+</br>
+</br>
+</br>
 **Languages and Tools:**
-
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -16,8 +19,10 @@ I am a ambitious and motivated software developer who is quick to adapt to new t
 </div>
 </br>
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaitlimaye)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaitlimaye&hide_progress=true)
 
+</br>
+</br>
 **Contact Me:**
 <div>
 <a href="https://www.linkedin.com/in/jaitlimaye">
