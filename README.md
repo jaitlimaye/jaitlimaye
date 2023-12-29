@@ -1,11 +1,10 @@
 
 ### Hi there 👋, my name is Jait 🙌
 #### I am currently a Fullstack Developer at <a href="https://fixxi.repair/">Fixxi Technologies</a>
-I am an ambitious and motivated software developer who is quick to adapt to new technology
+I am an ambitious and motivated software developer who is quick to adapt to new technologies
 <br />
 <br />
 
-**Languages and Tools:**
 <br />
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
@@ -14,6 +13,7 @@ I am an ambitious and motivated software developer who is quick to adapt to new 
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C Sharp" alt="C Sharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
+<br />
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
