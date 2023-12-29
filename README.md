@@ -10,7 +10,8 @@ I am a ambitious and motivated software developer who is quick to adapt to new t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaitlimaye)]
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaitlimaye)]
 
 **Contact Me:**
 <a href="https://www.linkedin.com/in/jaitlimaye">
