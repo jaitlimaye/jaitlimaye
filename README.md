@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Jait 🙌
-#### I am currently a Fullstack Developer at <a href="https://fixxi.repair/">Fixxi Technologies</a>
 
 An ambitious and motivated software developer <br /> who is quick to adapt to new technologies
 
